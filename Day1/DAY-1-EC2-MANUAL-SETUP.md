@@ -1,8 +1,8 @@
-#🚀 Day 1 - Manual EC2 Setup (Zero Automation)
+# 🚀 Day 1 - Manual EC2 Setup (Zero Automation)
 - Project: Weather Volt – AWS EC2 Hands-on Journey
 - Author: Prarabdh Soni
 
-##🎯 Objective
+## 🎯 Objective
 Launch an Ubuntu EC2 instance manually, configure SSH access, set security rules, install NGINX and host a live Weather Volt landing page.
 
 1. Launch Ubuntu EC2
@@ -73,7 +73,7 @@ Launch an Ubuntu EC2 instance manually, configure SSH access, set security rules
 ![App Screenshot](./images/web-page.png)
 
 
-##🧠 Concepts Learned
+## 🧠 Concepts Learned
 
 | Topic | Understanding |
 | --- | --- |
@@ -87,5 +87,5 @@ Launch an Ubuntu EC2 instance manually, configure SSH access, set security rules
 | --- | --- |
 | SSH | Secure access to server |
 
-##✅ Result
+## ✅ Result
 - Successfully deployed Weather Volt Landing Page on AWS EC2 using manual setup with zero automation. 
