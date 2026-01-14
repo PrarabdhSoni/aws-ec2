@@ -13,7 +13,7 @@ Launch an Ubuntu EC2 instance manually, configure SSH access, set security rules
   - Auto Assign Public IP
   - Enabled
 
-![App Screenshot](./launch-ec2.png)
+![App Screenshot](./images/launch-ec2.png)
 
 2. Create Key Pair
   - Name
