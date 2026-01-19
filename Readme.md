@@ -13,7 +13,7 @@ This repository showcases **my practical hands-on journey with AWS EC2**, coveri
 - Storage with EBS volumes  
 - Networking with Elastic IPs  
 - AMI creation & Golden AMI strategy  
-- Auto Scaling & Launch Templates (upcoming)
+- IAM security hardening
 
 All experiments are **production-oriented**, simulating enterprise-level workflows.
 
@@ -27,6 +27,32 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 2   | EBS Storage Lifecycle | [Link](./Day2/DAY-2-EBS-Storage-Deep-Dive.md) |
 | 3   | Elastic IP & Recovery | [Link](./Day3/DAY-3-elastic-ip-recovery.md) |
 | 4   | AMI Engineering & Golden AMI | [Link](./Day4/DAY-4-AMI-Engineering.md) |
+| Day 5 | IAM security hardening | [Link](./Day5/Day-5-IAM-Security-Hardening.md) |
+| Day 6 | ALB Setup | 🔜 Planned |
+| Day 7 | Auto Scaling Group | 🔜 Planned |
+| Day 8 | Health Checks & Replacement | 🔜 Planned |
+| Day 9 | Blue Green Deployment | 🔜 Planned |
+| Day 10 | Monitoring | 🔜 Planned |
+| Day 11 | Cost Optimization | 🔜 Planned |
+| Day 12 | Crash Simulation | 🔜 Planned |
+| Day 13 | Custom VPC | 🔜 Planned |
+| Day 14 | Bastion Host | 🔜 Planned |
+| Day 15 | Security Groups vs NACL | 🔜 Planned |
+| Day 16 | Elastic Network Interface | 🔜 Planned |
+| Day 17 | Route Tables Debugging | 🔜 Planned |
+| Day 18 | Private EC2 → Internet Access via NAT | 🔜 Planned |
+| Day 19 | Zero Trust SSH | 🔜 Planned |
+| Day 20 | Instance Metadata Hacking | 🔜 Planned |
+| Day 21 | Disaster Recovery Drill | 🔜 Planned |
+| Day 22 | Chaos Engineering | 🔜 Planned |
+| Day 23 | EC2 Fleet | 🔜 Planned |
+| Day 24 | Performance Tuning | 🔜 Planned |
+| Day 25 | Cost Breakdown | 🔜 Planned |
+| Day 26 | Launch via AWS CLI only | 🔜 Planned |
+| Day 27 | Terraform EC2 + ALB + ASG. | 🔜 Planned |
+| Day 28 | CI/CD | 🔜 Planned |
+| Day 29 | Logging Pipeline | 🔜 Planned |
+| Day 30 | Architecture Design | 🔜 Planned |
 
 ---
 
@@ -36,6 +62,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 - ✅ EBS volume creation, mounting & snapshot restore
 - ✅ Elastic IP static mapping & reassociation
 - ✅ Golden AMI creation & launch
+- ✅ IAM security roles
 - ✅ Full workflow simulating **enterprise production environments**
 
 ---
@@ -75,6 +102,6 @@ This repo is **public** and designed to showcase **practical DevOps skills** for
 ## 📫 Contact
 
 - GitHub: [Link](https://github.com/PrarabdhSoni)  
-- LinkedIn: [Link](www.linkedin.com/in/prarabdh-soni)
+- LinkedIn: [Link](https://linkedin.com/in/prarabdh-soni)
 
 ---
