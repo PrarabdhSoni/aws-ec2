@@ -23,36 +23,36 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 
 | Day | Topic | Link |
 |-----|-------|--------|
-| 1   | Manual EC2 Setup | [Link](./Day1/DAY-1-EC2-MANUAL-SETUP.md) |
-| 2   | EBS Storage Lifecycle | [Link](./Day2/DAY-2-EBS-Storage-Deep-Dive.md) |
-| 3   | Elastic IP & Recovery | [Link](./Day3/DAY-3-elastic-ip-recovery.md) |
-| 4   | AMI Engineering & Golden AMI | [Link](./Day4/DAY-4-AMI-Engineering.md) |
-| Day 5 | IAM security hardening | [Link](./Day5/Day-5-IAM-Security-Hardening.md) |
-| Day 6 | ALB Setup | 🔜 Planned |
-| Day 7 | Auto Scaling Group | 🔜 Planned |
-| Day 8 | Health Checks & Replacement | 🔜 Planned |
-| Day 9 | Blue Green Deployment | 🔜 Planned |
-| Day 10 | Monitoring | 🔜 Planned |
-| Day 11 | Cost Optimization | 🔜 Planned |
-| Day 12 | Crash Simulation | 🔜 Planned |
-| Day 13 | Custom VPC | 🔜 Planned |
-| Day 14 | Bastion Host | 🔜 Planned |
-| Day 15 | Security Groups vs NACL | 🔜 Planned |
-| Day 16 | Elastic Network Interface | 🔜 Planned |
-| Day 17 | Route Tables Debugging | 🔜 Planned |
-| Day 18 | Private EC2 → Internet Access via NAT | 🔜 Planned |
-| Day 19 | Zero Trust SSH | 🔜 Planned |
-| Day 20 | Instance Metadata Hacking | 🔜 Planned |
-| Day 21 | Disaster Recovery Drill | 🔜 Planned |
-| Day 22 | Chaos Engineering | 🔜 Planned |
-| Day 23 | EC2 Fleet | 🔜 Planned |
-| Day 24 | Performance Tuning | 🔜 Planned |
-| Day 25 | Cost Breakdown | 🔜 Planned |
-| Day 26 | Launch via AWS CLI only | 🔜 Planned |
-| Day 27 | Terraform EC2 + ALB + ASG. | 🔜 Planned |
-| Day 28 | CI/CD | 🔜 Planned |
-| Day 29 | Logging Pipeline | 🔜 Planned |
-| Day 30 | Architecture Design | 🔜 Planned |
+| 1 | Manual EC2 Setup | [Link](./Day1/DAY-1-EC2-MANUAL-SETUP.md) |
+| 2 | EBS Storage Lifecycle | [Link](./Day2/DAY-2-EBS-Storage-Deep-Dive.md) |
+| 3 | Elastic IP & Recovery | [Link](./Day3/DAY-3-elastic-ip-recovery.md) |
+| 4 | AMI Engineering & Golden AMI | [Link](./Day4/DAY-4-AMI-Engineering.md) |
+| 5 | IAM security hardening | [Link](./Day5/Day-5-IAM-Security-Hardening.md) |
+| 6 | ALB Setup | 🔜 Planned |
+| 7 | Auto Scaling Group | 🔜 Planned |
+| 8 | Health Checks & Replacement | 🔜 Planned |
+| 9 | Blue Green Deployment | 🔜 Planned |
+| 10 | Monitoring | 🔜 Planned |
+| 11 | Cost Optimization | 🔜 Planned |
+| 12 | Crash Simulation | 🔜 Planned |
+| 13 | Custom VPC | 🔜 Planned |
+| 14 | Bastion Host | 🔜 Planned |
+| 15 | Security Groups vs NACL | 🔜 Planned |
+| 16 | Elastic Network Interface | 🔜 Planned |
+| 17 | Route Tables Debugging | 🔜 Planned |
+| 18 | Private EC2 → Internet Access via NAT | 🔜 Planned |
+| 19 | Zero Trust SSH | 🔜 Planned |
+| 20 | Instance Metadata Hacking | 🔜 Planned |
+| 21 | Disaster Recovery Drill | 🔜 Planned |
+| 22 | Chaos Engineering | 🔜 Planned |
+| 23 | EC2 Fleet | 🔜 Planned |
+| 24 | Performance Tuning | 🔜 Planned |
+| 25 | Cost Breakdown | 🔜 Planned |
+| 26 | Launch via AWS CLI only | 🔜 Planned |
+| 27 | Terraform EC2 + ALB + ASG. | 🔜 Planned |
+| 28 | CI/CD | 🔜 Planned |
+| 29 | Logging Pipeline | 🔜 Planned |
+| 30 | Architecture Design | 🔜 Planned |
 
 ---
 
