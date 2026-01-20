@@ -28,7 +28,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 3 | Elastic IP & Recovery | [Link](./Day3/DAY-3-elastic-ip-recovery.md) |
 | 4 | AMI Engineering & Golden AMI | [Link](./Day4/DAY-4-AMI-Engineering.md) |
 | 5 | IAM security hardening | [Link](./Day5/Day-5-IAM-Security-Hardening.md) |
-| 6 | ALB Setup | 🔜 Planned |
+| 6 | ALB Setup | [Link](./Day6/Day-6-ALB-Setup.md) |
 | 7 | Auto Scaling Group | 🔜 Planned |
 | 8 | Health Checks & Replacement | 🔜 Planned |
 | 9 | Blue Green Deployment | 🔜 Planned |
