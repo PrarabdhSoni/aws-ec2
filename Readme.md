@@ -2,18 +2,30 @@
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![DevOps](https://img.shields.io/badge/DevOps-Skills-blue?style=for-the-badge)
 
-# ☁️ AWS EC2 Masterclass Portfolio
+# ☁️ AWS Cloud Engineer – Hands-on Learning Journey
 
-## Hi, I'm Prarabdh Soni 👋
-Cloud Engineer in training | DevOps Enthusiast | AWS EC2 Hands-on
+Welcome to my **AWS Cloud Engineering Hands-on Portfolio**.
 
-This repository showcases **my practical hands-on journey with AWS EC2**, covering:
+This repository documents my complete **practical journey of learning AWS from zero to production-level architecture**, focusing on real-world scenarios used by cloud and DevOps engineers.
 
-- Instance setup & management  
-- Storage with EBS volumes  
-- Networking with Elastic IPs  
-- AMI creation & Golden AMI strategy  
-- IAM security hardening
+Every day includes hands-on labs, architecture understanding, and production-style implementations.
+
+---
+
+## 👨‍💻 About Me
+
+**Name:** Prarabdh Soni  
+**Role:** Full Stack Developer → Cloud Engineer (in progress)  
+**Goal:** Become a production-ready Cloud / DevOps Engineer  
+
+## 🎯 Learning Philosophy
+
+- Learn by building
+- Understand *why*, not just *how*
+- Think like a cloud engineer
+- Follow industry best practices
+- Focus on scalability, security, and cost optimization
+
 
 All experiments are **production-oriented**, simulating enterprise-level workflows.
 
@@ -29,7 +41,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 4 | AMI Engineering & Golden AMI | [Link](./Day4/DAY-4-AMI-Engineering.md) |
 | 5 | IAM security hardening | [Link](./Day5/Day-5-IAM-Security-Hardening.md) |
 | 6 | ALB Setup | [Link](./Day6/Day-6-ALB-Setup.md) |
-| 7 | Auto Scaling Group | 🔜 Planned |
+| 7 | Auto Scaling Group | [Link](./Day7/Day-7-Auto-Scaling-Group.md) |
 | 8 | Health Checks & Replacement | 🔜 Planned |
 | 9 | Blue Green Deployment | 🔜 Planned |
 | 10 | Monitoring | 🔜 Planned |
@@ -56,17 +68,6 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 
 ---
 
-## 🌟 Highlights
-
-- ✅ EC2 instance hardening (users, firewall, SSH)
-- ✅ EBS volume creation, mounting & snapshot restore
-- ✅ Elastic IP static mapping & reassociation
-- ✅ Golden AMI creation & launch
-- ✅ IAM security roles
-- ✅ Full workflow simulating **enterprise production environments**
-
----
-
 ## 📸 Visual Proof
 
 All hands-on steps include **screenshots** in each day's folder.  
@@ -74,22 +75,28 @@ Visual confirmation of commands, instance status, and AMI creation.
 
 ---
 
-## 🚀 Next Steps
+## 🛠️ Skills Demonstrated
 
-- Implement **Auto Scaling Groups**
-- Integrate **CloudWatch alarms & metrics**
-- Launch multi-instance **high availability architecture**
-- Explore **CI/CD pipelines** with EC2
+- Linux server administration
+- EC2 lifecycle management
+- IAM roles and policies
+- Auto scaling strategies
+- Load balancing concepts
+- Cloud monitoring
+- Infrastructure thinking
+- Production debugging
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 🏗️ Architecture Mindset Developed
 
-- AWS EC2 Management  
-- Linux System Administration  
-- Security Hardening (UFW, SSH)  
-- Infrastructure Automation & Reuse (Golden AMI)  
-- Networking Concepts (Elastic IP, Security Groups)
+Through this journey, I am learning to design:
+
+- Highly Available systems
+- Scalable architectures
+- Secure cloud environments
+- Cost-efficient infrastructure
+- Automated deployments
 
 ---
 
@@ -105,3 +112,14 @@ This repo is **public** and designed to showcase **practical DevOps skills** for
 - LinkedIn: [Link](https://linkedin.com/in/prarabdh-soni)
 
 ---
+
+## 🏁 Status
+
+🟢 Actively building  
+🟢 Daily hands-on practice  
+🟢 Production-focused learning  
+
+---
+
+> “Cloud engineering is not about launching servers —  
+> it’s about designing systems that survive failure.”
