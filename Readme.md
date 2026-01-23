@@ -43,7 +43,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 6 | ALB Setup | [Link](./Day6/Day-6-ALB-Setup.md) |
 | 7 | Auto Scaling Group | [Link](./Day7/Day-7-Auto-Scaling-Group.md) |
 | 8 | Health Checks, Auto Healing & HTTPS | [Link](./Day8/Day-8-ALB+ASG+Health-Checks-Replacement.md) |
-| 9 | Blue Green Deployment | 🔜 Planned |
+| 9 | Blue Green Deployment | [Link](./Day9/Day-9–Blue-Green-Deployment.md) |
 | 10 | Monitoring | 🔜 Planned |
 | 11 | Cost Optimization | 🔜 Planned |
 | 12 | Crash Simulation | 🔜 Planned |
