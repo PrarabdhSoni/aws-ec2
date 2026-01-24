@@ -35,16 +35,16 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 
 | Day | Topic | Link |
 |-----|-------|--------|
-| 1 | Manual EC2 Setup | [Link](./Day1/DAY-1-EC2-MANUAL-SETUP.md) |
-| 2 | EBS Storage Lifecycle | [Link](./Day2/DAY-2-EBS-Storage-Deep-Dive.md) |
-| 3 | Elastic IP & Recovery | [Link](./Day3/DAY-3-elastic-ip-recovery.md) |
-| 4 | AMI Engineering & Golden AMI | [Link](./Day4/DAY-4-AMI-Engineering.md) |
-| 5 | IAM security hardening | [Link](./Day5/Day-5-IAM-Security-Hardening.md) |
-| 6 | ALB Setup | [Link](./Day6/Day-6-ALB-Setup.md) |
-| 7 | Auto Scaling Group | [Link](./Day7/Day-7-Auto-Scaling-Group.md) |
-| 8 | Health Checks, Auto Healing & HTTPS | [Link](./Day8/Day-8-ALB+ASG+Health-Checks-Replacement.md) |
-| 9 | Blue Green Deployment | [Link](./Day9/Day-9–Blue-Green-Deployment.md) |
-| 10 | Monitoring | [Link](./Day10/Day-10-Monitoring.md) |
+| 1 | Manual EC2 Setup | [Link](./Day01_Manual_EC2_Setup/DAY-1-EC2-MANUAL-SETUP.md) |
+| 2 | EBS Storage Lifecycle | [Link](./Day02_EBS_Storage_Lifecycle/DAY-2-EBS-Storage-Deep-Dive.md) |
+| 3 | Elastic IP & Recovery | [Link](./Day03_Elastic_IP_&_Recovery/DAY-3-elastic-ip-recovery.md) |
+| 4 | AMI Engineering & Golden AMI | [Link](./Day04_AMI_Engineering_&_Golden_AMI/DAY-4-AMI-Engineering.md) |
+| 5 | IAM security hardening | [Link](./Day05_IAM_security_hardening/Day-5-IAM-Security-Hardening.md) |
+| 6 | ALB Setup | [Link](./Day06_ALB_Setup/Day-6-ALB-Setup.md) |
+| 7 | Auto Scaling Group | [Link](./Day07_Auto_Scaling_Group/Day-7-Auto-Scaling-Group.md) |
+| 8 | Health Checks, Auto Healing & HTTPS | [Link](./Day08_Health_Checks,%20Auto_Healing_&_HTTPS/Day-8-ALB+ASG+Health-Checks-Replacement.md) |
+| 9 | Blue Green Deployment | [Link](./Day09_Blue_Green_Deployment/Day-9–Blue-Green-Deployment.md) |
+| 10 | Monitoring | [Link](./Day10_Monitoring/Day-10-Monitoring.md) |
 | 11 | Cost Optimization | 🔜 Planned |
 | 12 | Crash Simulation | 🔜 Planned |
 | 13 | Custom VPC | 🔜 Planned |
