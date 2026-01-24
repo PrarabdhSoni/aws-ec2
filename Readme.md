@@ -44,7 +44,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 7 | Auto Scaling Group | [Link](./Day7/Day-7-Auto-Scaling-Group.md) |
 | 8 | Health Checks, Auto Healing & HTTPS | [Link](./Day8/Day-8-ALB+ASG+Health-Checks-Replacement.md) |
 | 9 | Blue Green Deployment | [Link](./Day9/Day-9–Blue-Green-Deployment.md) |
-| 10 | Monitoring | 🔜 Planned |
+| 10 | Monitoring | [Link](./Day10/Day-10-Monitoring.md) |
 | 11 | Cost Optimization | 🔜 Planned |
 | 12 | Crash Simulation | 🔜 Planned |
 | 13 | Custom VPC | 🔜 Planned |
