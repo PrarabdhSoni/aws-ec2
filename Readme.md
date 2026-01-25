@@ -45,7 +45,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 8 | Health Checks, Auto Healing & HTTPS | [Link](./Day08_Health_Checks,%20Auto_Healing_&_HTTPS/Day-8-ALB+ASG+Health-Checks-Replacement.md) |
 | 9 | Blue Green Deployment | [Link](./Day09_Blue_Green_Deployment/Day-9–Blue-Green-Deployment.md) |
 | 10 | Monitoring | [Link](./Day10_Monitoring/Day-10-Monitoring.md) |
-| 11 | Cost Optimization | 🔜 Planned |
+| 11 | Cost Optimization | [Link](./Day11_Cost_Optimization/Day-11-Cost-Optimization.md) |
 | 12 | Crash Simulation | 🔜 Planned |
 | 13 | Custom VPC | 🔜 Planned |
 | 14 | Bastion Host | 🔜 Planned |
