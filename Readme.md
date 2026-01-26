@@ -46,7 +46,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 9 | Blue Green Deployment | [Link](./Day09_Blue_Green_Deployment/Day-9–Blue-Green-Deployment.md) |
 | 10 | Monitoring | [Link](./Day10_Monitoring/Day-10-Monitoring.md) |
 | 11 | Cost Optimization | [Link](./Day11_Cost_Optimization/Day-11-Cost-Optimization.md) |
-| 12 | Crash Simulation | 🔜 Planned |
+| 12 | Crash Simulation & Backup Automation | [Link](./Day12_Crash_Simulation_&_Backup_Automation/Day12-Crash-Simulation.md) |
 | 13 | Custom VPC | 🔜 Planned |
 | 14 | Bastion Host | 🔜 Planned |
 | 15 | Security Groups vs NACL | 🔜 Planned |
