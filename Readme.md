@@ -48,7 +48,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 11 | Cost Optimization | [Link](./Day11_Cost_Optimization/Day-11-Cost-Optimization.md) |
 | 12 | Crash Simulation & Backup Automation | [Link](./Day12_Crash_Simulation_&_Backup_Automation/Day12-Crash-Simulation.md) |
 | 13 | Custom VPC & Bastion Host | [Link](./Day13_Custom_VPC_Architecture/Day-13-Custom-VPC-Architecture.md) |
-| 14 | Bastion Host (ADVANCED) | 🔜 Planned |
+| 14 | AWS SSM Session Manager | [Link](./Day14_AWS_SSM_Session_Manager/Day-14-AWS-SSM-Session-Manager.md) |
 | 15 | Security Groups vs NACL | 🔜 Planned |
 | 16 | Elastic Network Interface | 🔜 Planned |
 | 17 | Route Tables Debugging | 🔜 Planned |
