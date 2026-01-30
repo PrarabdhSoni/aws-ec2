@@ -50,7 +50,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 13 | Custom VPC & Bastion Host | [Link](./Day13_Custom_VPC_Architecture/Day-13-Custom-VPC-Architecture.md) |
 | 14 | AWS SSM Session Manager | [Link](./Day14_AWS_SSM_Session_Manager/Day-14-AWS-SSM-Session-Manager.md) |
 | 15 | Security Groups vs NACL | [Link](./Day15_Security_Groups_vs_NACL/Day-15-Security-Groups-vs-NACL.md) |
-| 16 | Elastic Network Interface | 🔜 Planned |
+| 16 | Elastic Network Interface | [Link](./Day16_Elastic_Network_Interface/Day-16-Elastic-Network-Interface.md) |
 | 17 | Route Tables Debugging | 🔜 Planned |
 | 18 | Private EC2 → Internet Access via NAT | 🔜 Planned |
 | 19 | Zero Trust SSH | 🔜 Planned |
