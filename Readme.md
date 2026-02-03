@@ -53,7 +53,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 16 | Elastic Network Interface | [Link](./Day16_Elastic_Network_Interface/Day-16-Elastic-Network-Interface.md) |
 | 17 | Route Tables Debugging | [Link](./Day17_Route_Tables_Debugging/Day-17-Route-Tables-Debugging.md)|
 | 18 | Private EC2 → Internet Access via NAT | [Link](./Day18_Private_EC2_Internet_Access_via_NAT/Day-18-Private-EC2-Internet-Access-Via-Nat.md) |
-| 19 | Zero Trust SSH | 🔜 Planned |
+| 19 | VPC Endpoints | [Link](./Day19_VPC_Endpoints/Day-19-Replacing-NAT-Gateway-with-VPC-Endpoints.md) |
 | 20 | Instance Metadata Hacking | 🔜 Planned |
 | 21 | Disaster Recovery Drill | 🔜 Planned |
 | 22 | Chaos Engineering | 🔜 Planned |
