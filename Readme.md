@@ -55,7 +55,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 18 | Private EC2 → Internet Access via NAT | [Link](./Day18_Private_EC2_Internet_Access_via_NAT/Day-18-Private-EC2-Internet-Access-Via-Nat.md) |
 | 19 | VPC Endpoints | [Link](./Day19_VPC_Endpoints/Day-19-Replacing-NAT-Gateway-with-VPC-Endpoints.md) |
 | 20 | Instance Metadata Hacking | [Link](./Day20_Instance_Metadata_Hacking/Day-20-Instance-Metadata-Hacking.md) |
-| 21 | Disaster Recovery Drill | 🔜 Planned |
+| 21 | Disaster Recovery Drill | [Link](./Day21_Disaster_Recovery_Drill/Day-21-Disaster-Recovery-Drill.md)|
 | 22 | Chaos Engineering | 🔜 Planned |
 | 23 | EC2 Fleet | 🔜 Planned |
 | 24 | Performance Tuning | 🔜 Planned |
