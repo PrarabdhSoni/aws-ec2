@@ -60,7 +60,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 23 | Chaos Engineering (Advanced) | [Link](./Day23_Chaos_Engineering_Advanced/Day-23-Chaos-Engineering-Advanced.md) |
 | 24 | Performance Tuning | [Link](./Day24_Performance_Tuning/Day-24-Performance-Tuning.md) |
 | 25 | Cost Breakdown | [Link](./Day25_Cost_Breakdown/Day-25-Cost-Breaksown.md)|
-| 26 | Launch via AWS CLI only | 🔜 Planned |
+| 26 | Launch via AWS CLI only | [Link](./Day26_Launch_Via_AWS_CLI_only/Day-26-Launch-via-AWS-CLI-Only.md)|
 | 27 | Terraform EC2 + ALB + ASG. | 🔜 Planned |
 | 28 | CI/CD | 🔜 Planned |
 | 29 | Logging Pipeline | 🔜 Planned |
