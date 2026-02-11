@@ -61,7 +61,7 @@ All experiments are **production-oriented**, simulating enterprise-level workflo
 | 24 | Performance Tuning | [Link](./Day24_Performance_Tuning/Day-24-Performance-Tuning.md) |
 | 25 | Cost Breakdown | [Link](./Day25_Cost_Breakdown/Day-25-Cost-Breaksown.md)|
 | 26 | Launch via AWS CLI only | [Link](./Day26_Launch_Via_AWS_CLI_only/Day-26-Launch-via-AWS-CLI-Only.md)|
-| 27 | Terraform EC2 + ALB + ASG. | 🔜 Planned |
+| 27 | Terraform EC2 + ALB + ASG. | [Link](./Day27_Terraform_EC2_+_ALB_+_ASG/Day-27-Terraform-EC2+ALB+ASG.md)|
 | 28 | CI/CD | 🔜 Planned |
 | 29 | Logging Pipeline | 🔜 Planned |
 | 30 | Architecture Design | 🔜 Planned |
